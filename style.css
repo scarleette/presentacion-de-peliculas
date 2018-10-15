@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: gray;
+    padding: 5em;
+}
+
+.contenedor {
+    background-color: rgb(202, 202, 202);
+    height: 210em;
+    width: 60em;  
+    margin: 0 auto;
+   
+}
+
+.barraSuperior {
+    height: 6em;
+    width: 60em;
+    background-color: rgb(182, 62, 41);
+}
+
+button {
+
+    padding: 2em;
+    margin: 4px 4px;
+    border-radius: 50%;
+    border: none;
+    background-color: rgba(240, 248, 255, 0);
+}
+
+.seleccionPeliculas {
+    padding: 2em;
+}
+
+
+#img1 {
+    
+    height: 200px;
+    width: 190px;
+    border-radius: 50%;
+}
+
+
+
+#pelicula {
+    display: none;
+}   
+
+h4 {
+    font-family: fantasy;
+
+}
+
+.info {
+    background-color: rgba(161, 94, 223, 0.678);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 2em;
+}
+
+p {
+    padding: 2em;
+}
