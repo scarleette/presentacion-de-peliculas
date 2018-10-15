@@ -6,9 +6,9 @@ En este proyecto debiamos consumir una API de OMDB y replicar una interfaz web e
 
 ## Herramientas
 
-JS
-BOOTSRAP
-CSS
+* JS
+* BOOTSRAP
+* CSS
 
 
 [Demo](https://scarleette.github.io/presentacion-de-peliculas/)
